@@ -1,0 +1,9 @@
+/.vs
+/Debug
+/x64
+/RemoteClient/Debug
+/RemoteClient/x64
+/RemoteClient/RemoteClient.vcxproj.user
+/RemoteCtrl/RemoteCtrl.vcxproj.user
+/RemoteCtrl/Debug
+/RemoteCtrl/x64

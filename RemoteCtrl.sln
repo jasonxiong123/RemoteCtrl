@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteCtrl", "RemoteCtrl\RemoteCtrl.vcxproj", "{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteClient", "RemoteClient\RemoteClient.vcxproj", "{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{358DC817-511F-4A47-A853-D818294CB870}"
+	ProjectSection(SolutionItems) = preProject
+		远程控制系统设计.uml = 远程控制系统设计.uml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Debug|x64.ActiveCfg = Debug|x64
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Debug|x64.Build.0 = Debug|x64
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Debug|x86.Build.0 = Debug|Win32
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Release|x64.ActiveCfg = Release|x64
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Release|x64.Build.0 = Release|x64
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Release|x86.ActiveCfg = Release|Win32
+		{8BBC03F4-98F1-4A95-AAEF-4B5E631CB07A}.Release|x86.Build.0 = Release|Win32
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Debug|x64.ActiveCfg = Debug|x64
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Debug|x64.Build.0 = Debug|x64
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Debug|x86.Build.0 = Debug|Win32
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Release|x64.ActiveCfg = Release|x64
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Release|x64.Build.0 = Release|x64
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Release|x86.ActiveCfg = Release|Win32
+		{7C9A5725-A6AF-4169-A0E4-B72864B48CDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2997EE-A6F5-4013-8118-F1AF537D06C6}
+	EndGlobalSection
+EndGlobal
